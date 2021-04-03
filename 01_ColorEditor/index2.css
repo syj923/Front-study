@@ -1,0 +1,30 @@
+button{
+    color:#fff;
+    font-size: 36px;
+}
+
+button.red {
+    background-color: red;
+    
+}
+
+button.red {
+    background-color:orange;
+}
+
+button.yellow {
+    background-color: yellow;
+    color:#222;
+}
+
+button.green {
+    background-color: green;
+}
+
+button.blue {
+    background-color: blue;
+}
+
+button.purple {
+    background-color: purple;
+}
